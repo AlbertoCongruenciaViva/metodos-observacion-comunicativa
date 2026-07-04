@@ -16,7 +16,49 @@ Título de la obra inscrita: Método de intuición de respuestas cerradas
 
 El Método de Intuición de Respuestas Cerradas es una propuesta metodológica de observación conversacional centrada en el instante previo a la respuesta verbal, especialmente ante preguntas cerradas de tipo sí/no/no sé.
 
-El método observa pausas, silencios, ritmo, tensión, microvacilaciones y cambios previos a la verbalización para formular hipótesis probabilísticas sobre la orientación de una respuesta.
+El método parte de la hipótesis de que, antes de verbalizar una respuesta cerrada, pueden aparecer señales observables como pausas, silencios, ritmo, tensión, microvacilaciones, cambios expresivos o variaciones en la preparación de la respuesta.
+
+Estas señales no se interpretan como certezas absolutas, sino como indicios para formular hipótesis provisionales que deben contrastarse posteriormente.
+
+## Objeto de observación
+
+El método observa principalmente el intervalo comprendido entre:
+
+1. la formulación de una pregunta cerrada;
+2. el instante previo a la respuesta;
+3. la aparición de la respuesta verbal;
+4. la comprobación posterior de la hipótesis inicial.
+
+## Tipo de preguntas
+
+El método funciona especialmente con preguntas cerradas, por ejemplo:
+
+- sí / no;
+- sí / no / no sé;
+- elección entre dos opciones;
+- respuestas breves ante una situación concreta.
+
+## Procedimiento básico
+
+1. Formular una pregunta clara.
+2. Observar el instante previo a la respuesta.
+3. Detectar pausas, tensión, ritmo, vacilación o dirección probable.
+4. Formular una hipótesis provisional.
+5. Esperar la respuesta verbal.
+6. Contrastar la hipótesis.
+7. Confirmar, modificar, descartar o clasificar como no evaluable.
+
+## Desarrollos internos
+
+Este método incluye como desarrollos relacionados:
+
+### Lectura de Silencios
+
+Procedimiento centrado en observar el intervalo entre una pregunta o estímulo comunicativo y el inicio efectivo de la respuesta.
+
+### Lectura en Directo de Silencios
+
+Aplicación en tiempo real de la observación de pausas, ritmo, tensión, respiración, microvacilaciones y dirección probable de respuesta.
 
 ## Qué no es
 
@@ -26,26 +68,35 @@ Este método no pretende:
 - obtener certezas absolutas;
 - sustituir procedimientos psicológicos, clínicos o diagnósticos;
 - manipular a otras personas;
-- convertir una intuición en verdad sin contraste.
+- convertir una intuición en verdad sin contraste;
+- afirmar conocimientos imposibles de verificar.
 
-## Estructura básica
+## Principio metodológico
 
-1. Formulación de una pregunta cerrada.
-2. Observación del intervalo previo a la respuesta.
-3. Aparición de una hipótesis provisional.
-4. Contraste mediante la respuesta verbal, nuevas preguntas o evolución de la conversación.
-5. Confirmación, modificación, descarte o clasificación como no evaluable.
+Toda hipótesis obtenida durante el instante previo a una respuesta debe considerarse provisional hasta que la conversación permita confirmarla, modificarla, descartarla o clasificarla como no evaluable.
 
-## Desarrollos internos
+## Límites
 
-Este método incluye como desarrollos relacionados:
+El método reconoce margen de error.
 
-- Lectura de Silencios.
-- Lectura en Directo de Silencios.
+La interpretación puede verse afectada por factores como:
+
+- cansancio;
+- ansiedad;
+- contexto social;
+- cultura;
+- timidez;
+- estrés;
+- autocontrol expresivo;
+- respuestas preparadas;
+- ambigüedad de la pregunta;
+- proyección del observador.
 
 ## Estado actual
 
 Versión pública inicial para documentación, trazabilidad y desarrollo metodológico.
+
+El método se encuentra abierto a futuras ampliaciones, fichas de caso, protocolos de validación, análisis comparativos y revisiones.
 
 ## Derechos
 
