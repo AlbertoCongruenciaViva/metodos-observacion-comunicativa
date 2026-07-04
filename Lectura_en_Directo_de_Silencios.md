@@ -105,3 +105,8 @@ Esta página presenta una primera versión pública de la Lectura en Directo de 
 ## Derechos
 
 © Alberto Martínez García. Todos los derechos reservados.
+## Navegación
+
+- [Volver a la portada del repositorio](README.md)
+- [Ver Método de Intuición de Respuestas Cerradas](metodo-intuicion-respuestas-cerradas/)
+- [Ver Lectura de Silencios](Lectura_de_Silencios.md)
