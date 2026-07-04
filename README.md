@@ -13,6 +13,34 @@ Los métodos aquí documentados se centran en el análisis de la respuesta human
 
 ### 1. Método de Intuición de Respuestas Cerradas
 
+[Ver página del método](metodo-intuicion-respuestas-cerradas/)
+
+Método centrado en la observación del instante previo a la respuesta verbal, especialmente ante preguntas cerradas de tipo sí/no/no sé.
+
+Obra inscrita en el Registro de la Propiedad Intelectual de Catalunya.
+
+Expediente: 00765-02825273  
+Fecha de expediente: 12 de septiembre de 2025  
+Título de la obra inscrita: Método de intuición de respuestas cerradas  
+
+### 2. Lectura de Silencios
+
+[Ver desarrollo metodológico](Lectura_de_Silencios.md)
+
+Desarrollo metodológico centrado en el intervalo entre una pregunta o estímulo comunicativo y el inicio de la respuesta del interlocutor.
+
+Su finalidad es observar ese intervalo, formular hipótesis provisionales y contrastarlas posteriormente mediante nuevas preguntas o mediante la evolución de la conversación.
+
+### 3. Lectura en Directo de Silencios
+
+[Ver desarrollo aplicado](Lectura_en_Directo_de_Silencios.md)
+
+Desarrollo aplicado centrado en la percepción en tiempo real de pausas, ritmo, tensión, microvacilaciones, respiración, cambios expresivos y dirección probable de respuesta.
+
+No se plantea como lectura literal del pensamiento, sino como observación probabilística de señales comunicativas previas a la verbalización.
+
+### 1. Método de Intuición de Respuestas Cerradas
+
 Método centrado en la observación del instante previo a la respuesta verbal, especialmente ante preguntas cerradas de tipo sí/no/no sé.
 
 Obra inscrita en el Registro de la Propiedad Intelectual de Catalunya.
