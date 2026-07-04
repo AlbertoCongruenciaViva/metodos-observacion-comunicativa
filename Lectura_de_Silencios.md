@@ -57,3 +57,8 @@ La hipótesis solo gana valor cuando la conversación permite contrastarla media
 
 ```text
 Pregunta → Silencio → Observación → Hipótesis → Contraste → Confirmación / Modificación / Descarte / No evaluable
+## Navegación
+
+- [Volver a la portada del repositorio](README.md)
+- [Ver Método de Intuición de Respuestas Cerradas](metodo-intuicion-respuestas-cerradas/)
+- [Ver Lectura en Directo de Silencios](Lectura_en_Directo_de_Silencios.md)
