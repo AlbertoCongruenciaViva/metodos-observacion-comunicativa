@@ -52,6 +52,13 @@ El método funciona especialmente con preguntas cerradas, por ejemplo:
 
 Este método incluye como desarrollos relacionados:
 
+- [Lectura de Silencios](../Lectura_de_Silencios.md)
+- [Lectura en Directo de Silencios](../Lectura_en_Directo_de_Silencios.md)
+
+Ambos desarrollos amplían el campo de observación del instante previo a la respuesta verbal.
+
+Este método incluye como desarrollos relacionados:
+
 ### Lectura de Silencios
 
 Procedimiento centrado en observar el intervalo entre una pregunta o estímulo comunicativo y el inicio efectivo de la respuesta.
