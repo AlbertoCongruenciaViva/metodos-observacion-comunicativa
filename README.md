@@ -82,7 +82,9 @@ Toda hipótesis obtenida durante una conversación debe considerarse provisional
 Este repositorio se publica como espacio de documentación, trazabilidad y desarrollo público de métodos propios.
 
 Los documentos podrán ampliarse mediante nuevas versiones, anexos, fichas de caso, protocolos de observación y desarrollos metodológicos posteriores.
+## Palabras clave
 
+Alberto Martínez García, Método de Intuición de Respuestas Cerradas, Lectura de Silencios, Lectura en Directo de Silencios, observación comunicativa, respuestas cerradas, silencio previo a la respuesta, hipótesis conversacional, comunicación humana, intuición conversacional.
 ## Derechos
 
 © Alberto Martínez García. Todos los derechos reservados salvo indicación expresa.
