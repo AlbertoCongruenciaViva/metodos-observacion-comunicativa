@@ -1,1 +1,20 @@
 
+cff-version: 1.2.0
+title: "Métodos de Observación Comunicativa"
+message: "Si utilizas o citas este repositorio, cita esta obra como se indica."
+type: software
+authors:
+  - family-names: "Martínez García"
+    given-names: "Alberto"
+repository-code: "https://github.com/AlbertoCongruenciaViva/metodos-observacion-comunicativa"
+abstract: "Repositorio público de documentación metodológica sobre métodos de observación comunicativa, incluyendo el Método de Intuición de Respuestas Cerradas, Lectura de Silencios y Lectura en Directo de Silencios."
+keywords:
+  - observación comunicativa
+  - respuestas cerradas
+  - lectura de silencios
+  - comunicación
+  - hipótesis conversacional
+  - Alberto Martínez García
+license: "Todos los derechos reservados"
+version: "1.0.0"
+date-released: "2026-07-04"
