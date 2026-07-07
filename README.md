@@ -85,10 +85,11 @@ Los documentos podrán ampliarse mediante nuevas versiones, anexos, fichas de ca
 
 Este proyecto forma parte de la línea de métodos y propuestas desarrolladas por Alberto Martínez García.
 
-Métodos publicados por el autor:
-- Congruencia Viva
-- SIEDL — Sistema de Incentivación Educativa y Dignificación Laboral
-- Método de Intuición de Respuestas Cerradas / Lectura de Silencios
+## Métodos publicados por Alberto Martínez García
+
+- [Congruencia Viva](https://albertocongruenciaviva.github.io/congruencia-viva/)
+- [SIEDL](https://albertocongruenciaviva.github.io/SIEDL/)
+- [Métodos de Observación Comunicativa](https://albertocongruenciaviva.github.io/metodos-observacion-comunicativa/)
 
 ## Palabras clave
 
